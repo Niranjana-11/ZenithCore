@@ -303,3 +303,4 @@ def generate_pdf_report(role, difficulty, topic, transcript_list):
     buffer.close()
     
     return pdf_bytes
+'''transfered to pdf_generator.py'''
