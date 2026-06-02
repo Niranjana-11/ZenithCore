@@ -1,3 +1,15 @@
+---
+title: ZenithCore
+emoji: 🎯
+colorFrom: blue
+colorTo: indigo
+sdk: streamlit
+sdk_version: 1.38.0
+app_file: app.py
+pinned: false
+---
+
+
 # 🎙️ Interview Prep Coach
 
 Interview Prep Coach is an AI-driven role-specific interview simulation system built using Streamlit, LangChain, and the Groq API. It helps software engineering, machine learning, and data analytics candidates prepare for interviews by conducting realistic, multi-turn technical dialogues with instant scoring, rubric evaluations, and progressive follow-ups.
